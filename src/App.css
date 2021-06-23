@@ -1,0 +1,38 @@
+*{
+margin:0
+}
+.App{
+  background-color:#fafafa;
+  height:vh;
+ 
+}
+.app__header{
+  background-color:white;
+  position:sticky;
+  top:0;
+  z-index:1;
+  padding:20px;
+  object-fit:contain;
+  display:flex;
+  justify-content:space-between;
+}
+
+.app__signUp{
+  display:flex;
+  flex-direction:column;
+}
+
+.App_post{
+  padding:20px;
+  
+
+
+  
+  
+}
+
+/* @media(max-width:768px){
+  .makeStyles-paper-1{
+    width:450px;
+  }
+} */
